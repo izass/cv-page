@@ -1,0 +1,19 @@
+.skill-cell {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  text-transform: capitalize;
+  margin-bottom: 0.5rem;
+}
+
+.skill-bar {
+  height: 14px;
+  align-self: flex-end;
+  background-color: white;
+}
+
+.skill-value {
+  background-color: #9c9c9c;
+  height: 14px;
+  width: 80%;
+}
