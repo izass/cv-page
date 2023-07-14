@@ -1,3 +1,15 @@
 .main-content {
   padding: 2rem;
+
+  &__header, &__job-position {
+    text-align: end;
+  }
+
+  &__job-position {
+    color: #3c3c3c;
+  }
+
+  .section-title {
+    border-bottom-color: #000;
+  }
 }

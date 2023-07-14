@@ -1,7 +1,7 @@
 import React from 'react'
 import ProfileImg from '../ProfileImg/ProfileImg'
 import ProfileSection from './compose/ProfileSection/ProfileSection'
-import SkillSection from './compose/SkillSection/Skill.Section'
+import SkillSection from './compose/SkillSection/SkillSection'
 import './SideBar.scss'
 
 function SideBar() {

@@ -5,7 +5,7 @@ import SkillCell from '../../../SkillCell/SkillCell'
 function SkillSection() {
   return (
     <div>
-      <SectionTitle title='skills:' />
+      <SectionTitle>skills:</SectionTitle>
       <SkillCell label='portuguese' />
       <SkillCell label='english' />
     </div>
